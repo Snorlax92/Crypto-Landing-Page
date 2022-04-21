@@ -69,7 +69,7 @@ const Footer = () => {
                     <SocialMedia>
                         <SocialMediaWrap>
                             <SocialLogo to="/" onClick={toggleHome}>
-                                dolla
+                                Prism Protocol
                             </SocialLogo>
                             <WebsiteRights>{new Date().getFullYear()} All rights reserved.
                             </WebsiteRights>
