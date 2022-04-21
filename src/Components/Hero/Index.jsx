@@ -28,10 +28,9 @@ const Hero = () => {
                     <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
                 </HeroBg>
                 <HeroContent>
-                    <HeroTitle>Virtual Banking Made Easy</HeroTitle>
+                    <HeroTitle>Earn BUSD and Shitcoins</HeroTitle>
                     <HeroP>
-                        SignUp for a new account today and recieve $250
-                        in credit towards your next payment.
+                    StableGrow is a new deflationary-reflection token on the Binance Smart Chain network. Simply hold $SGC tokens in your wallet and earn passive income in $BUSD. 12% of every Buy/Transfer/Sell transaction is redistributed automatically to $SGC eligible holders.
                     </HeroP>
                     <HeroBtnWrapper>
                         <Button
@@ -41,7 +40,7 @@ const Hero = () => {
                             primary="true"
                             dark="true"
                         >
-                            Get started {hover ? <ArrowForward /> : <ArrowRight />}
+                            Buy Now {hover ? <ArrowForward /> : <ArrowRight />}
                         </Button>
                     </HeroBtnWrapper>
                 </HeroContent>
