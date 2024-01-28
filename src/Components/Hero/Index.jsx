@@ -12,7 +12,9 @@ import {
 } from '../Hero/HeroElements'
 import { Button } from '../../Utilities/ButtonElements'
 import Video from '../../Videos/video.mp4'
-import { Link } from 'react-router-dom';
+import { Button } from 'your-button-library';
+import { Link } from 'react-router-dom'; // or any other appropriate import
+
 
 const Hero = () => {
 
