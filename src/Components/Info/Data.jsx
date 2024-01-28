@@ -4,7 +4,7 @@ export const homeObj1 = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Premium Bank',
+    topLine: 'About Us',
     headline: 'Unlimited Transactions with zero fees',
     description: 'Get access to our exclusive app that allows you to send unlimited money',
     buttonLabel: 'Get Started',
