@@ -28,7 +28,7 @@ const Hero = () => {
                     <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
                 </HeroBg>
                 <HeroContent>
-                    <HeroTitle>Earn BUSD and Shitcoins</HeroTitle>
+                    <HeroTitle>Este es</HeroTitle>
                     <HeroP>
                     StableGrow is a new deflationary-reflection token on the Binance Smart Chain network. Simply hold $SGC tokens in your wallet and earn passive income in $BUSD. 12% of every Buy/Transfer/Sell transaction is redistributed automatically to $SGC eligible holders.
                     </HeroP>
