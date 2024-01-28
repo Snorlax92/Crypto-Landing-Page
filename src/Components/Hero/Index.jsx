@@ -34,7 +34,7 @@ const Hero = () => {
                     </HeroP>
                     <HeroBtnWrapper>
                         <Button
-                            to="signup"
+                            to="https://app.ston.fi/swap"
                             onMouseEnter={onHover}
                             onMouseLeave={onHover}
                             primary="true"
