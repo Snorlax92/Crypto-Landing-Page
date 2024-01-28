@@ -85,7 +85,7 @@ const Navbar = ({ toggle }) => {
                         </NavItem>
                     </NavMenu>
                     <NavBtn>
-                        <NavBtnLink to="/">Join Telegram</NavBtnLink>
+                        <NavBtnLink to="https://t.me/Stealthb">Join Telegram</NavBtnLink>
                     </NavBtn>
                 </NavbarContainer>
             </Nav>
