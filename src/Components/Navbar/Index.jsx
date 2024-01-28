@@ -37,7 +37,7 @@ const Navbar = ({ toggle }) => {
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
                     <NavLogo to="/" onClick={toggleHome}>
-                        Prism Protocol
+                        BABY TON
                     </NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
@@ -61,7 +61,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true}
                                 exact='true'
                                 offset={-80}
-                            >Discover</NavLinks>
+                            >Tokenomics</NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks
@@ -71,7 +71,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true}
                                 exact='true'
                                 offset={-80}
-                            >Services</NavLinks>
+                            >Roadmap</NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks
@@ -81,11 +81,11 @@ const Navbar = ({ toggle }) => {
                                 spy={true}
                                 exact='true'
                                 offset={-80}
-                            >Signup</NavLinks>
+                            >Chart</NavLinks>
                         </NavItem>
                     </NavMenu>
                     <NavBtn>
-                        <NavBtnLink to="/">Sign In</NavBtnLink>
+                        <NavBtnLink to="/">Join Telegram</NavBtnLink>
                     </NavBtn>
                 </NavbarContainer>
             </Nav>
